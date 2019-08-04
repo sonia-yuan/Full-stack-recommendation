@@ -1,4 +1,4 @@
-package dp.mysql;
+package db.mysql;
 
 
 import java.sql.DriverManager;

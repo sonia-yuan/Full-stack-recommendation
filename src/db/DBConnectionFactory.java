@@ -1,7 +1,7 @@
 package db;
 
 import db.mongodb.MongoDBConnection;
-import dp.mysql.MySQLConnection;
+import db.mysql.MySQLConnection;
 
 public class DBConnectionFactory {
 	// This should change based on the pipeline.

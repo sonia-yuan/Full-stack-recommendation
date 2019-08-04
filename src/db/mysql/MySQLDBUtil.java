@@ -1,4 +1,4 @@
-package dp.mysql;
+package db.mysql;
 
 public class MySQLDBUtil {
 	private static final String HOSTNAME = "localhost";
