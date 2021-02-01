@@ -5,7 +5,7 @@ import java.util.Set;
 
 import entity.Item;
 
-
+#edit
 public interface DBConnection {
 	/**
 	 * Close the connection.
